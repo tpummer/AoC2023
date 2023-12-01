@@ -1,0 +1,40 @@
+{
+  "name": "aoc2023",
+  "version": "1.0.0",
+  "description": "Programming puzzles Advent Of Code 2023 Solutions in JS",
+  "main": "index.js",
+  "scripts": {
+    "01_01": "node 01\\01.js",
+    "01_02": "node 01\\02.js",
+    "02_01": "node 02\\01.js",
+    "02_02": "node 02\\02.js",
+    "03_01": "node 03\\01.js",
+    "03_02": "node 03\\02.js",
+    "04_01": "node 04\\01.js",
+    "04_02": "node 04\\02.js",
+    "05_01": "node 05\\01.js",
+    "05_02": "node 05\\02.js",
+    "06_01": "node 06\\01.js",
+    "06_02": "node 06\\02.js",
+    "07_01": "node 07\\01.js",
+    "07_02": "node 07\\02.js",
+    "08_01": "node 08\\01.js",
+    "08_02": "node 08\\02.js",
+    "09_01": "node 09\\01.js",
+    "09_02": "node 09\\02.js",
+    "10_01": "node 10\\01.js",
+    "10_02": "node 10\\02.js",
+    "11_01": "node 11\\01.js",
+    "11_02": "node 11\\02.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpummer/AoC2023.git"
+  },
+  "author": "tpummer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tpummer/AoC2023/issues"
+  },
+  "homepage": "https://github.com/tpummer/AoC2023#readme"
+}
